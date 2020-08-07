@@ -1,3 +1,11 @@
+## Dependencies Used
+
+- Firebase(BaaS)
+- TailWindCss(Utility based framework for design/responsive)
+- React Context Api(not Redux)
+- React Hooks(useState)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
